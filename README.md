@@ -35,7 +35,7 @@ Follow these instructions to set up the project locally.
 
 Make sure you have the following software installed on your local machine:
 
-- [Node.js](https://nodejs.org/en/) (version 12.x or later)
+- [Node.js](https://nodejs.org/en/) (version 14.x or later)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
